@@ -1,0 +1,29 @@
+****************************************** Game info ******************************************
+Created by : Elman Najafi
+Date : 07/09/2022
+Language : python 3.10
+Libraries : pygame
+
+*************************************** User guid ******************************************
+                                     "Red spaceship"
+  ACTION               BUTTON
+Move up       ==>    press "w"
+Move down     ==>    press "s"
+Move right    ==>    press "d"
+Move left     ==>    press "a"
+Shoot bullets ==>    press "Left CTRL"
+
+
+                                    " Yellow spaceship"
+    ACTION               BUTTON
+Move up       ==>    press "up"
+Move down     ==>    press "down"
+Move right    ==>    press "right"
+Move left     ==>    press "left"
+Shoot bullets ==>    press "Right CTRL"
+
+
+Note :
+Press "Play" button to start the game, and when one of the players win, for play another round
+press "p" in your keyboard.
+if you press "esc" button in your keyboard the game will end
